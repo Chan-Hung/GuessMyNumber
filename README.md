@@ -1,7 +1,6 @@
 # Guess My Number!
 
-'Guess My Number!'  -  The first game I built using JavaScript.
-
+A simple game for 2 players, played by rolling dice.
 ## Game rule 
 
 You can choose a number between 1 and 20.
