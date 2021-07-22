@@ -1,6 +1,6 @@
 # Guess My Number!
 
-A simple game for 2 players, played by rolling dice.
+A simple guessing number game, you win the game when your guessing number matches with the random number.
 ## Game rule 
 
 You can choose a number between 1 and 20.
